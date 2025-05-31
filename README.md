@@ -1,4 +1,4 @@
-# aw-s3-static-website-using-cloudfront-route53
+# Deploying a Static Website with AWS S3, CloudFront, Route 53, SSL, and Redirects via CloudFront Function
 
 ## 💼 Case Study 
 
